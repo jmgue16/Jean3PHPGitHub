@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: Jean3PHPGitHub
+  host: Jean3PHPGitHub
+  disk_quota: 1024M
